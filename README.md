@@ -1,78 +1,32 @@
-Kamai - Online Job Portal
+# Kamai - Online Job Portal
+KAMAI.
 
-Welcome to Kamai, the ultimate online job portal designed to connect job seekers with their dream jobs and employers with top talent.
+Kamai is a comprehensive online job portal designed to connect job seekers with potential employers. It offers a seamless and user-friendly platform for job searching, application tracking, and employer management.
 
-Table of Contents
-Overview
-Features
-Installation
-Usage
-Contributing
-License
-Contact
-Overview
-Kamai is an innovative job portal that aims to simplify the job search and recruitment process. Whether you're looking for your first job, a career change, or the perfect candidate, Kamai is here to help. Our platform offers a seamless experience for both job seekers and employers, with advanced search functionalities, easy-to-use interfaces, and powerful tools to match the right talent with the right opportunities.
+## Table of Contents
 
-Features
-Job Seekers:
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Create and manage profiles
-Upload and update resumes
-Browse and search for jobs
-Apply for jobs with a single click
-Receive job recommendations and alerts
-Employers:
+## Features
 
-Post and manage job listings
-Search for candidates
-Review applications
-Communicate with potential hires
-Track recruitment metrics
-General:
+- **User Registration & Authentication**: Secure registration and login for job seekers and employers.
+- **Job Listings**: Browse, search, and filter job listings by various criteria.
+- **Resume Builder**: Create, edit, and upload resumes.
+- **Application Management**: Track the status of job applications.
+- **Employer Dashboard**: Manage job postings, view applications, and communicate with applicants.
+- **Notifications**: Receive email and in-app notifications for job alerts and application updates.
 
-Secure authentication and user data protection
-Responsive design for mobile and desktop
-User-friendly interface
-Advanced search filters
-Installation
-To get a local copy up and running, follow these steps:
+## Demo
 
-Prerequisites
-Ensure you have the following installed:
+Check out our live demo: [Kamai Demo](https://your-demo-url.com)
 
-Node.js
-npm
-Clone the Repository
-bash
-Copy code
-git clone https://github.com/your-username/kamai.git
-cd kamai
-Install Dependencies
-bash
-Copy code
-npm install
-Running the Application
-bash
-Copy code
-npm start
-Open your browser and navigate to http://localhost:3000 to see the application in action.
+## Installation
 
-Usage
-For Job Seekers:
+To get a local copy up and running follow these simple steps:
 
-Sign up and create your profile
-Upload your resume
-Browse job listings and apply
-For Employers:
-
-Sign up and create your company profile
-Post job listings
-Search and review candidates
-Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
